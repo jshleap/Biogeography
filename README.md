@@ -26,4 +26,13 @@ Requires:
 - xml.etree
 - matplotlib and dependencies
 
+GBIFer.py:
+----------
+This a program that given a GBIF zip dataset(s) will extract the taxonomic and geographic info
+to be analyzed. This program supercedes biogeographer, since the GBIF API change. This script is in development and will contain more analytical tools.
+
+Requires: 
+- numpy
+- matplotlib and dependencies
+
 Disclaimer: This code has probably been superceded by GenGIS software plugins (https://github.com/beiko-lab/gengis)
