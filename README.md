@@ -36,5 +36,5 @@ Requires:
 - matplotlib and dependencies
 
 
-
+-------------
 Disclaimer: This code has probably been superceded by GenGIS software plugins (https://github.com/beiko-lab/gengis), however the development will continue since is possible to include pythoncode into GenGIS
